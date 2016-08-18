@@ -1,0 +1,17 @@
+{
+    "name": "hindmadurai-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Indian Type Foundry"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/hindmadurai-bower.git"
+    },
+    "description": "Hind Madurai font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
